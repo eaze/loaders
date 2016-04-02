@@ -25,11 +25,14 @@
     "tape": "^4.0.0"
   },
   "files": [
-    "simple.js"
+    "simple.js",
+    "dots.js"
   ],
   "dependencies": {
     "create-keyframes": "~1.0.1",
     "cuid": "~1.3.8",
+    "map-times": "~1.0.0",
+    "preflex": "~1.0.1",
     "virtual-dom": "^2.1.0",
     "xtend": "~4.0.1"
   }
