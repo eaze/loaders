@@ -47,7 +47,7 @@ module.exports = function spinner (style) {
       }, [
         svg('stop', {
           offset: '0.1',
-          style: {'stop-color': '#fff', 'stop-opacity': 0}
+          style: {'stop-color': 'rgba(0,0,0,0)', 'stop-opacity': 0}
         }),
         svg('stop', {
           offset: '1',
