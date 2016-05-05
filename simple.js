@@ -51,7 +51,7 @@ module.exports = function spinner (style) {
         }),
         svg('stop', {
           offset: '1',
-          style: {'stop-color': 'currentColor'}
+          style: {'stop-color': style.stroke}
         })
       ])
     ]),
