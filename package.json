@@ -1,6 +1,6 @@
 {
   "name": "@eaze/loaders",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Virtual DOM SVG/CSS loaders for Eaze",
   "license": "MIT",
   "repository": "eaze/loaders",
